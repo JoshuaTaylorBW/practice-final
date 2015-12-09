@@ -1,0 +1,9 @@
+{
+  "firebase": "MyPlaylistApp",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

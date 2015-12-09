@@ -1,0 +1,18 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/5.0.0/bin/node /usr/local/bin/firebase deploy
+[debug] Platform:     darwin
+[debug] Node Version: v5.0.0
+[debug] Time:         Wed Dec 09 2015 14:47:07 GMT-0700 (MST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/MyPlaylistApp/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/MyPlaylistApp/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'MyPlaylistApp'...
+[info] 
+[info] i  deploying hosting
+[info] i  preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/firebase/MyPlaylistApp/uploads/-K57h_2T747kFGRwt3ZR?token=XXX&fileCount=20&message= 
+[debug] <<< HTTP RESPONSE 200
